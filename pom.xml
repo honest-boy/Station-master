@@ -8,7 +8,7 @@
 		<version>2.7.13</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.kp.station</groupId>
+	<groupId>com.station</groupId>
 	<artifactId>Station</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Station</name>
